@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "simple-replace:toggle"
+    "ctrl-alt-r": "simple-replace:toggle"
   }
 }
