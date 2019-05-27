@@ -12,10 +12,10 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "simple-replace",
+          "label": "vitasoft-kiom",
           "submenu": [
             {
-              "label": "Toggle",
+              "label": "simple-replace",
               "command": "simple-replace:toggle"
             }
           ]
