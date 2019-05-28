@@ -1,5 +1,5 @@
 {
-  "name": "simple-replace",
+  "name": "vita-replace",
   "main": "./lib/simple-replace",
   "version": "0.1.1",
   "description": "A short description of your package",
@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "simple-replace:toggle"
   },
-  "repository": "https://github.com/scy-vitasoft/simple-replace",
+  "repository": "https://github.com/help-vitasoft/simple-replace.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
