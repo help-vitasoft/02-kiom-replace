@@ -1,5 +1,5 @@
 {
-  "name": "vita-replace",
+  "name": "02-kiom-replace",
   "main": "./lib/simple-replace",
   "version": "0.3.3",
   "description": "A short description of your package",
